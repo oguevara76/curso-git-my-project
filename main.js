@@ -4,7 +4,7 @@ console.log("Hola mundo");
 
 function gps() {
     //GPS completo
-    //GPS completo 
+    //Refactorización del GPS 
 }
 
 function login() {
