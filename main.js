@@ -10,3 +10,8 @@ function gps() {
 function login() {
     //login creado
 }
+
+function Onboarding() {
+    //Onboarding completo
+    //Refactorización del Onboarding 
+}
